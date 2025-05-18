@@ -1,10 +1,9 @@
-![kof](https://github.com/user-attachments/assets/e9f06246-da40-4b28-885f-836c5505db39)
-
-
 
 # 👋 Hallo, ich bin Koffi 
 
 ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
+
+    <a href="[https://example.com/dein-gif.gif](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)"></a>
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
 🤖 **Performance- und Wartungsingenieur in der Robotik**  
