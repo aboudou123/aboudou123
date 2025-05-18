@@ -3,8 +3,6 @@
 
 ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
 
-    <a href="https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)"></a>
-
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
 🤖 **Performance- und Wartungsingenieur in der Robotik**  
 🚗 **Erfahrung im Test Engineering in der Automobilindustrie (Bayern)**  
