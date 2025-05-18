@@ -1,9 +1,9 @@
 
-# Hallo 👋 Ich bin Koffit. 
+# Hallo 👋 Ich bin Koffitse A. 
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
-🤖 **Performance - und Maintenance Ingenieur in der Robotik**  
-🚗 **Expert im Test Engineering in der Automobilindustrie (Bayern)**  
+🤖 **Expert im Performance - und Maintenance Ingenieur in der Robotik**  
+🚗 **Expert im Test Engineering in der Automobilindustrie (BMW)**  
 📍 Lebe und arbeite in Deutschland  
 
 ---
