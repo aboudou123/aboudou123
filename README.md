@@ -40,9 +40,9 @@ https://images.app.goo.gl/o6uzT6dvmsr7pP8j8
 
 ### 📬 Kontakt & Netzwerke
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dein-link-hier) *(Link ergänzen)*  
-- 🌐 [Portfolio / Blog](https://deinewebseite.de) *(optional)*  
-- 📧 koffi@example.com *(E-Mail nach Wunsch einfügen)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dein-link-hier) 
+- 🌐 [Portfolio / Blog](https://deinewebseite.de)  
+- 📧 patrick@yahoo.com *
 
 ---
 
@@ -78,7 +78,7 @@ https://images.app.goo.gl/o6uzT6dvmsr7pP8j8
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://images.app.goo.gl/nipAHMnv5AeDsoJq5" alt="AWS" width="60" height="60"/>
 </p>
 
 
