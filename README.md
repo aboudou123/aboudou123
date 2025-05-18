@@ -1,3 +1,6 @@
+
+
+
 # 👋 Hallo, ich bin Koffi
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
@@ -14,6 +17,8 @@ Ich bin leidenschaftlicher Ingenieur mit Fokus auf **Softwareentwicklung**, **De
 Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendungen – von der ersten Codezeile bis zur automatisierten Bereitstellung in der Cloud.
 
 ---
+https://images.app.goo.gl/o6uzT6dvmsr7pP8j8
+
 
 ### 🛠️ Technologiestack
 
