@@ -1,9 +1,9 @@
 
-# Hallo 👋 
+# Hallo 👋 Ich bin Koffit. 
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
-🤖 **Performance- und Wartungsingenieur in der Robotik**  
-🚗 **Erfahrung im Test Engineering in der Automobilindustrie (Bayern)**  
+🤖 **Performance - und Maintenance Ingenieur in der Robotik**  
+🚗 **Expert im Test Engineering in der Automobilindustrie (Bayern)**  
 📍 Lebe und arbeite in Deutschland  
 
 ---
@@ -38,13 +38,8 @@ Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendu
 
 ### 📬 Kontakt & Netzwerke
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dein-link-hier) 
+- 🔗 [LinkedIn]([(https://www.linkedin.com/in/koffitse/)) 
  
-- 📧 patrick@yahoo.com *
-
----
-
-
 ###
 
 <div align="left">
