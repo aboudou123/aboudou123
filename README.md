@@ -1,8 +1,10 @@
+![kof](https://github.com/user-attachments/assets/e9f06246-da40-4b28-885f-836c5505db39)
 
-![Jlia](https://github.com/user-attachments/assets/a9a91aac-4ab2-476c-8de3-7aa8a7edf1a6)
 
 
-# 👋 Hallo, ich bin Koffi
+# 👋 Hallo, ich bin Koffi 
+
+![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
 🤖 **Performance- und Wartungsingenieur in der Robotik**  
