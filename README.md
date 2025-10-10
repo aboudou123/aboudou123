@@ -3,7 +3,8 @@
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
 🤖 **Expert im Performance - und Maintenance Ingenieur in der Robotik**  
-🚗 **Expert im Test Engineering in der Automobilindustrie (BMW)** 
+🚗 **Expert im Test Engineering in der Automobilindustrie (BMW)**
+
 ☁️ **Zertifizierter Data Engineer & Azure Administrator**
 
 📍 Lebe in Deutschland  
