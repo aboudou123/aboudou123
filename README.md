@@ -8,6 +8,7 @@
 
 📍 Lebe in Deutschland  
 
+
 ---
 
 ### 💼 Über mich     ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
@@ -19,6 +20,9 @@ Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendu
 
 ---
 
+
+
+
 ### 🛠️ Technologiestack
 
 - **Sprachen:** Python · C++ · Java  
@@ -27,6 +31,8 @@ Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendu
 - **Tools & Methoden:** Git · Jenkins · GitHub Actions · Bash · Linux · Testautomatisierung  
 
 ---
+
+
 
 ### 🚀 Aktuelle Schwerpunkte
 
