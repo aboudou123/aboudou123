@@ -9,7 +9,11 @@
 📍 Lebe in Deutschland  
 
 
+
 ---
+
+
+
 
 ### 💼 Über mich     ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
 
@@ -17,6 +21,8 @@
 Ich bin leidenschaftlicher Ingenieur mit Fokus auf **Softwareentwicklung**, **DevOps-Prozesse** und **plattformübergreifende Technologien**. Mit fundierter Erfahrung in der **Robotik** sowie im **automobilen Test Engineering** bringe ich vielseitige Kompetenzen in moderne technologische Umgebungen ein.
 
 Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendungen – von der ersten Codezeile bis zur automatisierten Bereitstellung in der Cloud.
+
+
 
 ---
 
@@ -42,6 +48,9 @@ Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendu
 - Testautomatisierung und Systemverifikation im Automotive-Bereich  
 
 ---
+
+
+
 ###
 
 <h3 align="left">  🧠 Tech in Bewegung -Tools:</h3>
