@@ -14,9 +14,10 @@
 
 
 
-
 ### 💼 Über mich     ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
 
+
+---
 
 Ich bin leidenschaftlicher Ingenieur mit Fokus auf **Softwareentwicklung**, **DevOps-Prozesse** und **plattformübergreifende Technologien**. Mit fundierter Erfahrung in der **Robotik** sowie im **automobilen Test Engineering** bringe ich vielseitige Kompetenzen in moderne technologische Umgebungen ein.
 
