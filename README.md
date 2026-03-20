@@ -1,5 +1,5 @@
 
-# Hallo 👋 Ich bin Koffitse A. 
+# Koffitse Aboudou. 
 
 🎓 **Ingenieur für Entwicklung, DevOps & Plattformtechnik**  
 🤖 **Expert im Performance - und Maintenance Ingenieur in der Robotik**  
@@ -18,12 +18,10 @@
 
 
 ---
-
-Ich bin leidenschaftlicher Ingenieur mit Fokus auf **Softwareentwicklung**, **DevOps-Prozesse** und **plattformübergreifende Technologien**. Mit fundierter Erfahrung in der **Robotik** sowie im **automobilen Test Engineering** bringe ich vielseitige Kompetenzen in moderne technologische Umgebungen ein.
-
-Besonders fasziniert mich die Entwicklung leistungsstarker und wartbarer Anwendungen – von der ersten Codezeile bis zur automatisierten Bereitstellung in der Cloud.
-
-
+Hallo 👋 Ich bin
+**Koffitse Aboudou** DevOps- und Softwaretest-Ingenieur mit praktischer Erfahrung im Automotive- und Cloud-Umfeld.
+Schwerpunkte: Skalierbare Cloud-Architekturen, Security-by-Design, Automatisierung und Performance
+Engineering..
 
 ---
 
