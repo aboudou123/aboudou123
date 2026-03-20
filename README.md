@@ -6,20 +6,15 @@
 🚗 **Expert im Test Engineering in der Automobilindustrie (BMW)**           
 ☁️ **Zertifizierter Data Engineer & Azure Administrator**
 
-📍 Lebe in Deutschland  
-
-
+📍in Deutschland  
 
 ---
-
-
 
 ### 💼 Über mich     ![kof](https://github.com/user-attachments/assets/e36cae38-cc75-44d8-b384-4aa998f6bb84)
 
-
 ---
 Hallo 👋 Ich bin
-**Koffitse Aboudou** DevOps- und Softwaretest-Ingenieur mit praktischer Erfahrung im Automotive- und Cloud-Umfeld.
+**Koffitse Aboudou**:  DevOps- und Softwaretest-Ingenieur mit praktischer Erfahrung im Automotive- und Cloud-Umfeld.
 Schwerpunkte: Skalierbare Cloud-Architekturen, Security-by-Design, Automatisierung und Performance
 Engineering..
 
